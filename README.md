@@ -5,3 +5,5 @@ Dummy repo for testing git
 # upstream changed something
 
 # upstream is updated when it is behind a forked origin
+
+# forked origin updated but not pushed to upstream
